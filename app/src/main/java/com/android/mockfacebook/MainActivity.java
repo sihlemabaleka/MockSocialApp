@@ -8,7 +8,7 @@ import android.widget.Button;
 public class MainActivity extends Activity implements View.OnClickListener {
 
 
-    private Button btnLike, btnComment, btnShare, btnOptions, btnCrazyFeatureWeDontReallyNeed;
+    private Button btnLike, btnShare, btnOptions, btnCrazyFeatureWeDontReallyNeed;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
